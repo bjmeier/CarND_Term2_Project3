@@ -4,6 +4,8 @@
  *  Created on: Dec 12, 2016
  *      Author: Tiffany Huang
  */
+// https://www.youtube.com/watch?v=YamBuzDjrs8
+// Above video was very helpful and a source of code for parts of this project
 
 #include <random>
 #include <algorithm>
